@@ -1,0 +1,50 @@
+header#cabecalho h1 {
+	color: red;
+}
+div#interface {
+	width: 516px;
+}
+section#corpo {
+	border-right: 0px;
+}
+aside#lateral {
+	width: 500px;
+}
+nav#menu li {
+	padding: 6px;
+	margin: -1px;
+	font-size: 0.7em;
+}
+nav#menu ul {
+	left: 170px;
+}
+video#filme {
+	top: 6%;
+}
+audio#musica {
+	top: 49%;
+}
+header#cabecalho img#icone {
+	width: 20%;
+	height: 20%;
+}
+ul#album-fotos {
+	width: 81%;
+}
+ul#album-fotos li {
+	width: 109px;
+	height: 109px;
+}
+ul#album-fotos li {
+	background-size: 200% !important;
+}
+ul#album-fotos li:hover {
+	background-position: 0px 0px !important;
+	background-size: 100% !important;
+}
+ul#album-fotos li span {
+	text-shadow: 0.2px 0.3px #FEFFFF;
+	font-size: 6pt;
+	line-height: 192px;
+	padding: 5px
+}
